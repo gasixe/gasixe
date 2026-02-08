@@ -9,3 +9,7 @@ updated: '2026-02-08T21:37:02.907+08:00'
 https://www.mcserverhost.com/
 
 https://wispbyte.com/
+
+https://dashboard.katabump.com/保活：https://github.com/XCQ0607/katabump
+
+https://zeabur.com/
